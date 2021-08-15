@@ -10,6 +10,6 @@ Download Chrome  Webdriver and place it in the folder with the main.py code.
 ### Introduction
 * Change `CLICK_TIME` variable to change clicking times
 
-* Check your ==wifi== setting at first
+* Check your **wifi** setting at first
 
-* Make sure ==close== the automatic open page before running next time
+* Make sure **close** the automatic open page before running next time

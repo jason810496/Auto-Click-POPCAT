@@ -13,3 +13,5 @@ Download Chrome  Webdriver and place it in the folder with the main.py code.
 * Check your **wifi** setting at first
 
 * Make sure **close** the automatic open page before running next time
+###
+jason has no girlfriend
